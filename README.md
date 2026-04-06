@@ -10,7 +10,7 @@
 
 Desarrollador enfocado en la **automatización de mercados financieros**. Especializado en crear soluciones robustas para el trading algorítmico, con enfoque en la gestión de riesgo y la ejecución eficiente.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ce5c748-b5f1-45e1-9d56-1cfac98a2655" width="750" alt="Palantir Quant System Interface">
+  <img src="https://github.com/user-attachments/assets/3100c9b6-a168-49c4-83d9-f47f3d38710d" width="750" alt="Palantir Quant System Interface">
 </p>
 
 
@@ -28,3 +28,4 @@ Este software es de código abierto. Si mi trabajo te ha ayudado en tus operacio
 ---
 
 
+<img width="750" height="494" alt="3100c9b6-a168-49c4-83d9-f47f3d38710d" src="https://github.com/user-attachments/assets/381caa45-9920-4366-9d99-4c9786fb89dd" />
