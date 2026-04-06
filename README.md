@@ -23,6 +23,4 @@ Este software es de código abierto. Si mi trabajo te ha ayudado en tus operacio
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neo11R&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
