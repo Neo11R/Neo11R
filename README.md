@@ -9,6 +9,9 @@
 </p>
 
 Desarrollador enfocado en la **automatización de mercados financieros**. Especializado en crear soluciones robustas para el trading algorítmico, con enfoque en la gestión de riesgo y la ejecución eficiente.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ce5c748-b5f1-45e1-9d56-1cfac98a2655" width="750" alt="Palantir Quant System Interface">
+</p>
 
 * 🚀 **Proyecto Destacado:** [Palantir Quant System v4.1](https://github.com/Neo11R/Palantir-BingX-VST-) - Bot avanzado para BingX (Hedge Mode).
 * ⚡ **Tech Stack:** Python | CCXT | Pandas | TA-Lib | Integración de APIs.
