@@ -15,9 +15,7 @@ Desarrollador enfocado en la **automatización de mercados financieros**. Especi
 
 ### 📋 Características Principales
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b6a2b8e3-057d-411a-8280-5a3d463e265c" width="750" alt="Palantir Quant System Interface">
-</p>
+
 
 * **Gestión de Riesgo:** Implementación de Interés Compuesto (30x) y monitoreo de Drawdown en tiempo real.
 * **Modo Hedge:** Capacidad para gestionar posiciones bidireccionales simultáneas.
