@@ -10,7 +10,7 @@
 
 Desarrollador enfocado en la **automatización de mercados financieros**. Especializado en crear soluciones robustas para el trading algorítmico, con enfoque en la gestión de riesgo y la ejecución eficiente.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/..." width="100%" alt="Palantir System Dashboard">
+  <img src="tu_imagen_del_dashboard.png" width="900" alt="Palantir System Dashboard" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 
