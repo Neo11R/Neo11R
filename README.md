@@ -9,6 +9,7 @@
 </p>
 
 Desarrollador enfocado en la **automatización de mercados financieros**. Especializado en crear soluciones robustas para el trading algorítmico, con enfoque en la gestión de riesgo y la ejecución eficiente.
+<img width="750" height="494" alt="3100c9b6-a168-49c4-83d9-f47f3d38710d" src="https://github.com/user-attachments/assets/1ab76700-9cab-4272-9c68-d7eece101275" />
 
 ---
 
